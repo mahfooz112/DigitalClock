@@ -1,0 +1,28 @@
+body{
+  background-image: url(central-park-aerial-view-in-manhattan-new-york-huge-beautiful-park-is-surrounded-by-skyscraper-photo.jpeg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+#Clock-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  }
+
+#Clock{
+  font-family: monospace;
+  font-size: 6.5rem;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: hsl(0, 0%, 100%,0.1);
+  width: 100%
+}  
+
+
+
